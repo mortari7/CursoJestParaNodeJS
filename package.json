@@ -1,0 +1,19 @@
+{
+  "name": "cursojestparanodejs",
+  "version": "1.0.0",
+  "description": "Curso para JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortari7/CursoJestParaNodeJS.git"
+  },
+  "author": "Alessandro Mortari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mortari7/CursoJestParaNodeJS/issues"
+  },
+  "homepage": "https://github.com/mortari7/CursoJestParaNodeJS#readme"
+}
